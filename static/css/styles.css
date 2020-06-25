@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #639a67;
+}
+
+header {
+    font-family: 'Ultra', serif;
+    padding-top: 40;
+    padding-bottom: 40;
+    background-color: #2b580c;
+    color: #d8ebb5;
+}
+
+.btn {
+    background-color: #323232;
+}
+
+
+input {
+    margin: 0.25rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    width: 35%;
+    background-color: #d8ebb5;
+}
+
+@media screen and (max-width: 500px) {
+    input {
+        width: 100%;
+    }
+}
