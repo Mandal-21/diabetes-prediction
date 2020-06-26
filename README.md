@@ -13,7 +13,7 @@
 ## Demo
 Link: [https://diabetes--predictor-api.herokuapp.com/](https://diabetes--predictor-api.herokuapp.com/)
 
-[img]https://i.imgur.com/myiHTR1.png[/img](https://diabetes--predictor-api.herokuapp.com/)
+[![]([img]https://i.imgur.com/myiHTR1.png[/img])](https://diabetes--predictor-api.herokuapp.com/)
 
 ## Overview
 This is a simple Flask web app which predicts whether a patient is having diabetes or not.
